@@ -30,12 +30,12 @@ h1,h2,h3 {
   padding: 0 20px;
  }
    .text-primary {
-    color: #0f0202;
+    color: #f7c08a;
    }
 
    .lead{
     font-size: 20px;
-    color: #000;
+    color: #fff;
    }
    .btn{
     display: inline-block;
@@ -121,7 +121,7 @@ h1,h2,h3 {
  }
  /* showcase */
  .showcase {
-  background: url('../img/hotel\ image.jpg') no-repeat
+  background: url('../img/hotelpictusenow.jpg') no-repeat
     center center/cover;
   height: 600px;
  }
@@ -179,8 +179,8 @@ h1,h2,h3 {
  #about-info .info-right img{
   display: block;
   margin: auto;
-  width: 50%;
-  border-radius: 90%;
+  width: 70%;
+  border-radius: 50%;
 
  }
    #about-info .info-left{
@@ -191,7 +191,7 @@ h1,h2,h3 {
    /* testimonials */
    #testimonials{
     height: 600px;
-    background: url('../img/hotelimage2.jpg') no-repeat center center/cover;
+    background: url('../img/downloadsmalluse.jpg') no-repeat center center/cover;
     padding-top: 100px;
     border-radius: 5px;
    }
